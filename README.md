@@ -1,0 +1,1 @@
+# sonar-k8s-setup
